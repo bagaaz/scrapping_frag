@@ -1,0 +1,11 @@
+# Um proxy por linha
+# Formatos aceitos:
+#   ip:porta
+#   ip:porta:usuario:senha
+#   http://ip:porta
+#   http://usuario:senha@ip:porta
+#
+# Exemplo:
+# 192.168.1.100:8080
+# 10.0.0.1:3128:myuser:mypass
+# http://user:pass@proxy.example.com:8080
